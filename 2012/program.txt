@@ -1,0 +1,20 @@
+﻿
+
+Dunwei Gong (巩敦卫)  Generating test data for paths coverage using genetic algorithms
+
+
+
+Changhai Nei (聂长海) Search based combinatorial testing
+
+
+
+Yuanyuan Zhang (张渊源http://www.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/index.html) Search based requirements interaction management
+
+
+Jifeng Xuan(玄跻峰http://oscar-lab.org/people/~jxuan/) 
+
+Zheng Li (李征)
+
+
+
+
