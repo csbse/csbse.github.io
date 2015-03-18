@@ -11,9 +11,9 @@ font-size : 12px;
 background-image : url(images/bbg.jpg);
 } 
 img { 
-padding : 3px;
-border : 1px solid #d0660a;
-border : 1px solid #9cf449;
+/* padding : 3px; */
+/* border : 1px solid #d0660a; */
+/* border : 1px solid #9cf449; */
 } 
 img.floatTL { 
 float : left;
